@@ -1,52 +1,52 @@
 Region ,State,Population ,Civilian Labor Force,Employed,Unemployed,Unemployment Rate,GDP (billions)
-North-East,Connecticut,"2,884.00","1,914.00","1,842.00",71,3.7,386
-North-East,Maine,"1,110.00",693,672,21,3,68
-North-East,Massachusetts,"5,635.00","3,817.00","3,707.00",111,2.9,596
-North-East,New Hampshire,"1,121.00",774,754,20,2.5,89
+North-East,Connecticut,2884,1914,1842,71,3.7,386
+North-East,Maine,1110,693,672,21,3,68
+North-East,Massachusetts,5635,3817,3707,111,2.9,596
+North-East,New Hampshire,1121,774,754,20,2.5,89
 North-East,Rhode Island,864,556,536,20,3.6,64
 North-East,Vermont,518,342,334,8,2.4,35
-Middle Atlantic,New Jersey,"7,071.00","4,493.00","4,333.00",16,3.6,645
-Middle Atlantic,New York,"15,656.00","9,514.00","9,138.00",377,4,"1,732.00"
-Middle Atlantic,Pennsylania ,"10,277.00","6,492.00","6,208.00",284,4.4,814
-Midwest,Illinois,"10,001.00","6,447.00","6,191.00",256,4,897
-Midwest,Indiana,"5,246.00","3,387.00","3,275.00",112,3.3,377
-Midwest,Michigan,"7,993.00","4,937.00","4,736.00",203,4.1,542
-Midwest,Ohio,"9,239.00","5,802.00","5,564.00",239,4.1,699
-Midwest,Wisconsin,"4,633.00","3,105.00","3,001.00",104,3.3,347
-West North Central,Iowa,"2,468.00","1,739.00","1,691.00",48,2.7,195
-West North Central,Kansas,"2,229.00","1,487.00","1,440.00",49,3.2,173
-West North Central,Minnestoa,"4,424.00","3,110.00","3,009.00",100,3.2,381
-West North Central,Missouri,"4,811.00","3,083.00","2,982.00",102,3.3,332
-West North Central,Nebraska,"1,481.00","1,035.00","1,004.00",32,3,127
+Middle Atlantic,New Jersey,7071,4493,4333,16,3.6,645
+Middle Atlantic,New York,15656,9514,9138,377,4,1732
+Middle Atlantic,Pennsylania ,10277,6492,6208,284,4.4,814
+Midwest,Illinois,10001,6447,6191,256,4,897
+Midwest,Indiana,5246,3387,3275,112,3.3,377
+Midwest,Michigan,7993,4937,4736,203,4.1,542
+Midwest,Ohio,9239,5802,5564,239,4.1,699
+Midwest,Wisconsin,4633,3105,3001,104,3.3,347
+West North Central,Iowa,2468,1739,1691,48,2.7,195
+West North Central,Kansas,2229,1487,1440,49,3.2,173
+West North Central,Minnestoa,4424,3110,3009,100,3.2,381
+West North Central,Missouri,4811,3083,2982,102,3.3,332
+West North Central,Nebraska,1481,1035,1004,32,3,127
 West North Central,North Dakota,582,404,394,10,2.4,557
 West North Central,South Dakota,672,464,449,15,3.3,53
 South,Delaware,778,487,469,18,3.8,75
 South,District of Columbia,577,410,387,22,5.5,146
-South,Florida,"17,410.00","10,337.00","10,016.00",321,3.1,"1,093.00"
-South,Georgia,"8,196.00","5,110.00","4,935.00",175,3.4,616
-South,Maryland,"4,761.00","3,261.00","3,144.00",117,3.6,428
-South,North Carolina,"8,243.00","5,080.00","4,884.00",197,3.9,588
-South,South Carolina,"4,063.00","2,376.00","2,308.00",68,2.8,246
-South,Virginia,"6,672.00","4,412.00","4,289.00",123,2.8,554
-South,West Virgina,"1,447.00",797,758,39,4.9,78
-East South Central,Alabama,"3,862.00","2,242.00","2,174.00",67,3,231
-East South Central,Kentucky,"3,494.00","2,073.00","1,984.00",89,4.3,215
-East South Central,Mississippi,"2,287.00","1,276.00","1,207.00",69,5.4,118
-East South Central,Tennessee,"5,379.00","3,345.00","3,232.00",113,3.4,380
-West South Central,Arkansas,"2,343.00","1,363.00","1,314.00",48,3.5,133
-West South Central,Louisiana,"3,577.00","2,095.00","1,994.00",101,4.8,264
-West South Central,Oklahoma,"3,029.00","1,841.00","1,781.00",61,3.3,206
-West South Central,Texas,"21,934.00","14,045.00","13,552.00",494,3.5,"1,887.00"
-West,Arizona,"5,713.00","3,551.00","3,385.00",167,4.7,366
-West,Colorado,"4,545.00","3,149.00","3,062.00",87,2.8,390
-West,Idaho,"1,368.00",882,856,26,2.9,81
+South,Florida,17410,10337,10016,321,3.1,1093
+South,Georgia,8196,5110,4935,175,3.4,616
+South,Maryland,4761,3261,3144,117,3.6,428
+South,North Carolina,8243,5080,4884,197,3.9,588
+South,South Carolina,4063,2376,2308,68,2.8,246
+South,Virginia,6672,4412,4289,123,2.8,554
+South,West Virgina,1447,797,758,39,4.9,78
+East South Central,Alabama,3862,2242,2174,67,3,231
+East South Central,Kentucky,3494,2073,1984,89,4.3,215
+East South Central,Mississippi,2287,1276,1207,69,5.4,118
+East South Central,Tennessee,5379,3345,3232,113,3.4,380
+West South Central,Arkansas,2343,1363,1314,48,3.5,133
+West South Central,Louisiana,3577,2095,1994,101,4.8,264
+West South Central,Oklahoma,3029,1841,1781,61,3.3,206
+West South Central,Texas,21934,14045,13552,494,3.5,1887
+West,Arizona,5713,3551,3385,167,4.7,366
+West,Colorado,4545,3149,3062,87,2.8,390
+West,Idaho,1368,882,856,26,2.9,81
 West,Montana,850,533,515,19,3.5,52
-West,Nevada,"2,424.00","1,542.00","1,482.00",60,3.9,178
-West,New Mexico,"1,640.00",955,908,46,4.9,104
-West,Utah,"2,351.00","1,608.00","1,566.00",42,2.6,189
+West,Nevada,2424,1542,1482,60,3.9,178
+West,New Mexico,1640,955,908,46,4.9,104
+West,Utah,2351,1608,1566,42,2.6,189
 West,Wyoming,450,292,282,11,3.6,40
 Pacific,Alaska,545,348,326,21,6.1,55
-Pacific,California,"31,107.00","19,412.00","18,627.00",784,4,"3,137.00"
-Pacific,Hawaii,"1,091.00",665,647,18,2.7,97
-Pacific,Oregon,"3,409.00","2,104.00","2,025.00",79,3.7,252
-Pacific,Washington,"6,020.00","3,914.00","3,748.00",166,4.3,600
+Pacific,California,31107,19412,18627,784,4,3137
+Pacific,Hawaii,1091,665,647,18,2.7,97
+Pacific,Oregon,3409,2104,2025,79,3.7,252
+Pacific,Washington,6020,3914,3748,166,4.3,600
